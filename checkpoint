@@ -1,0 +1,2 @@
+model_checkpoint_path: "forecast_delivery"
+all_model_checkpoint_paths: "forecast_delivery"
